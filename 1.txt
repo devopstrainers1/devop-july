@@ -1,2 +1,2 @@
 This is fix for UI issue
-The new UI released
+The new UI released 2.4
